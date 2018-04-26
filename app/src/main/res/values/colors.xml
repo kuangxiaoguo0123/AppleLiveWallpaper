@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="half_colorPrimary">#88F44336</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="chat_item_press_color">#f7f7f7</color>
+    <color name="divide_line_color">#e6e6e6</color>
+    <color name="white">#ffffff</color>
+    <color name="common_text_color">#333333</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="navigationView_icon_color">#757575</color>
+    <color name="second_text_color">#757575</color>
+    <color name="setting_item_press_color">#dcdcdc</color>
+</resources>

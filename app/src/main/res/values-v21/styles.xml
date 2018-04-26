@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="DrawerLayoutTheme" parent="ThemeNoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

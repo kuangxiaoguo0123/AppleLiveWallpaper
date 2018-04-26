@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apple視頻桌面</string>
+    <string name="recommend_application">應用推薦</string>
+    <string name="change_ad_text">換個應用</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="set_to_wallpaper">設為桌面</string>
+    <string name="wall_transition_name">wall_transition</string>
+    <string name="install_wall_paper_engine">需要安裝Apple視頻桌面引擎</string>
+    <string name="voice_being_open">桌面聲音已開啟</string>
+    <string name="voice_being_close">桌面聲音已關閉</string>
+
+    <!--侧边栏-->
+    <string name="help_or_feedback">幫助和反饋</string>
+    <string name="settings">設置</string>
+    <string name="about_author">關於作者</string>
+    <string name="signature">個性簽名</string>
+    <string name="email">發郵件</string>
+    <string name="choose_client">選擇客戶端</string>
+    <string name="application_recommend">應用推薦</string>
+
+    <!--设置-->
+    <string name="voice_on_title">視頻聲音</string>
+    <string name="voice_on_dec">開啟桌面視頻聲音</string>
+
+    <string name="save">保存</string>
+
+    <!--反馈页面-->
+    <string name="question_not_see_video">1.列表中沒有找到您最近的視頻？</string>
+    <string name="question_not_see_video_resolve">可以退出app重新進入，如果還是沒有的話，可以重啟手機，這樣媒體庫就可以刷新了！</string>
+
+    <string name="email_address">郵件地址</string>
+    <string name="gmail_address">kuangxiaoguo@gmail.com</string>
+    <string name="netease_address">kuangxiaoguo@163.com</string>
+
+    <string name="empty_text_view">視頻列表為空，嘗試打開相機拍些視頻再重新加載！</string>
+
+    <!--权限检查-->
+    <string name="request_permission_text">權限申請</string>
+    <string name="storage_permisson_request_text">在設置-應用-Apple視頻桌面-權限中開啟存儲空間權限，以正常使用</string>
+    <string name="to_settings_text">去設置</string>
+    <string name="cancel">取消</string>
+</resources>

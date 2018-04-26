@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Apple Live Wallpaper</string>
+    <string name="recommend_application">Application Recommend</string>
+    <string name="change_ad_text">Application Change</string>
+    <string name="banner_home_unit_id">ca-app-pub-2296165744962777/9725873757</string>
+    <string name="banner_detail_unit_id">ca-app-pub-2296165744962777/5644116372</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="set_to_wallpaper">Set as wallpaper</string>
+    <string name="wall_transition_name">wall_transition</string>
+    <string name="install_wall_paper_engine">Need to install wallpaper engine first</string>
+    <string name="voice_being_open">Video volume is on</string>
+    <string name="voice_being_close">Video volume off</string>
+
+    <!--侧边栏-->
+    <string name="help_or_feedback">Help &#38; feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about_author">About author</string>
+    <string name="signature">Signature</string>
+    <string name="email">Email</string>
+    <string name="choose_client">Choose client</string>
+    <string name="application_recommend">Application recommend</string>
+
+    <!--设置-->
+    <string name="voice_on_title">Video volume</string>
+    <string name="voice_on_dec">Turn on video volume</string>
+
+    <string name="save">Save</string>
+
+    <!--反馈页面-->
+    <string name="question_not_see_video">1.Could not be find your recent video in the list？</string>
+    <string name="question_not_see_video_resolve">Exit the application and open again,
+        if you still not find them, try to restart your device so that the media library can be refreshed ！</string>
+
+    <string name="email_address">Email address</string>
+    <string name="gmail_address">kuangxiaoguo@gmail.com</string>
+    <string name="netease_address">kuangxiaoguo@163.com</string>
+
+    <string name="empty_text_view">Ahh, there\'s nothing to show here. Try to turn on the camera to take some video and reload!</string>
+
+    <!--权限检查-->
+    <string name="request_permission_text">Permission request</string>
+    <string name="storage_permisson_request_text">Go to Settings-Application-AppleLiveWallpaper-open the storage permission</string>
+    <string name="to_settings_text">To settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
