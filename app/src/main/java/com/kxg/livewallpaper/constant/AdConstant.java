@@ -7,5 +7,5 @@ package com.kxg.livewallpaper.constant;
 public class AdConstant {
 
     public static final String ADMOB_APP_ID = "ca-app-pub-2296165744962777~9695042025";
-    public static final String INTERSTITIAL_UNIT_ID = "ca-app-pub-2296165744962777/8992559789";
+    public static final String INTERSTITIAL_TEST_UNIT_ID = "ca-app-pub-3940256099942544/1033173712";
 }

@@ -44,7 +44,7 @@ public class SplashActivity extends BaseActivity {
     private void loadAd() {
         showDialog();
         mInsertAd = new InterstitialAd(this);
-        mInsertAd.setAdUnitId(AdConstant.INTERSTITIAL_UNIT_ID);
+        mInsertAd.setAdUnitId(AdConstant.INTERSTITIAL_TEST_UNIT_ID);
         mInsertAd.loadAd(new AdRequest.Builder().build());
         mAdListener = new AdListener() {
             @Override

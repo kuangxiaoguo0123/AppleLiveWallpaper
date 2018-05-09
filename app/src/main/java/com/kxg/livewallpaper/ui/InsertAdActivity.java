@@ -72,7 +72,7 @@ public class InsertAdActivity extends BaseActivity {
             mChangeAdButton.setVisibility(View.GONE);
         }
         mInsertAd = new InterstitialAd(this);
-        mInsertAd.setAdUnitId(AdConstant.INTERSTITIAL_UNIT_ID);
+        mInsertAd.setAdUnitId(AdConstant.INTERSTITIAL_TEST_UNIT_ID);
         mInsertAd.loadAd(new AdRequest.Builder().build());
         mAdListener = new AdListener() {
             @Override

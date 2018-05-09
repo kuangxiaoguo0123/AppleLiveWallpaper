@@ -10,5 +10,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="@string/banner_detail_unit_id" />
+        ads:adUnitId="@string/banner_test_unit_id" />
 </LinearLayout>

@@ -2,8 +2,7 @@
     <string name="app_name">Apple Live Wallpaper</string>
     <string name="recommend_application">Application Recommend</string>
     <string name="change_ad_text">Application Change</string>
-    <string name="banner_home_unit_id" translatable="false">ca-app-pub-2296165744962777/9725873757</string>
-    <string name="banner_detail_unit_id" translatable="false">ca-app-pub-2296165744962777/5644116372</string>
+    <string name="banner_test_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
