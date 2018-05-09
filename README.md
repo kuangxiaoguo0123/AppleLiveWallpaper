@@ -7,9 +7,6 @@ Apple Live Wallpaper, easily to set video as your wallpaper!
 ![](https://github.com/kuangxiaoguo0123/AppleLiveWallpaper/blob/master/screenshots/Screenshot_20180406-173026_03.png)
 ![](https://github.com/kuangxiaoguo0123/AppleLiveWallpaper/blob/master/screenshots/Screenshot_20180406-173046_04.png)
 
-# Test apk
-[Download the test apk file.](https://github.com/kuangxiaoguo0123/AppleLiveWallpaper/tree/master/apkfile/app-github-release-2.0.apk)
-
 # What can you learn from this project ?
 >1. Learn how to set video as your wallpaper.
 >2. Learn how to use the Tencent MTA Analyze.
