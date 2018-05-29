@@ -16,7 +16,7 @@ Apple Live Wallpaper, easily to set video as your wallpaper!
 # Google Play
 [https://play.google.com/store/apps/details?id=com.kxg.livewallpaper](https://play.google.com/store/apps/details?id=com.kxg.livewallpaper)
 
-# Finally
+# Support
 If your have any problems when you build this project. Send email to kuangxiaoguo@gmail.com or kuangxiaoguo@163.com to describe your questions and I'll try my best to resolve it. 
 
 Thanks for star and fork.
