@@ -14,11 +14,11 @@ Learn how to use the Tencent MTA Analyze.
 Learn how to use the Google AdMob to make some money.
 Learn how to adapter to multiple languages in android.
 ```
-# Google Play
-[https://play.google.com/store/apps/details?id=com.kxg.livewallpaper](https://play.google.com/store/apps/details?id=com.kxg.livewallpaper)
-
 # Huawei Market
 [http://appstore.huawei.com/app/C100246423](http://appstore.huawei.com/app/C100246423)
+
+# Google Play
+[https://play.google.com/store/apps/details?id=com.kxg.livewallpaper](https://play.google.com/store/apps/details?id=com.kxg.livewallpaper)
 
 # Support
 If your have any problems when you build this project. Send email to kuangxiaoguo@gmail.com or kuangxiaoguo@163.com to describe your questions and I'll try my best to resolve it. 
